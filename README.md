@@ -1,2 +1,8 @@
 # streamzip
-go实现的流式打包
+The streaming zip for Go
+
+## Usage
+
+
+## License
+MIT
